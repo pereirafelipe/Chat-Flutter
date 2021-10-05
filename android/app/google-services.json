@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981821937143",
+    "project_id": "chat-online-dc1de",
+    "storage_bucket": "chat-online-dc1de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981821937143:android:e7404388f13fdb1cf90af2",
+        "android_client_info": {
+          "package_name": "br.com.felipe.chatonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981821937143-4sa91pu5o0ib8vtnv5hjvrpoqbevs7rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.felipe.chatonline",
+            "certificate_hash": "37b2ec945cf02ffc55c5f3d4a76864209718cff3"
+          }
+        },
+        {
+          "client_id": "981821937143-vqiqoom2s960b3gbr3ugg7q9qgdkqrcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW656t8wLf_8sGvDcCVyL6UvmGQfTced8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981821937143-vqiqoom2s960b3gbr3ugg7q9qgdkqrcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
